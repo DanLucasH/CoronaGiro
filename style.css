@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(52, 179, 237);
+  text-align: center;
+}
+
+.t{
+font-size: 70px;
+color: rgb(47, 71, 71);
+
+}
+
+.c{
+color: red;
+
+}
+
+p{
+font-size: 30px;
+color: rgb(42, 128, 81);
+
+}
+
+.grade{
+
+display: grid;
+grid-templante-columns: 30% 30%;
+background-color: red;
+border-radius: 20px
+
+}
+
+.grad2{
+color: white;
+padding: 25px 25px;
+text-decoration: none;
+
+
+
+}
+.grad2:hover{
+  Background-color: blue;
+  border-radius: 20px;
+
+}
